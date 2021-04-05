@@ -1,0 +1,5 @@
+
+
+
+hs_err_pid*.mdmp files in C:\Windows\System32 - watch out for these files appearing which could be a sign of an issue. Recommendation is to purge after 60-90 days.
+https://community.tableau.com/s/question/0D54T00000C68w1SAB/can-i-delete-hserrpidmdmp-files
